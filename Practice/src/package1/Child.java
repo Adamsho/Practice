@@ -7,6 +7,6 @@ public class Child extends Parent {
 	}
 	
 	public void Bla(){
-		System.out.println("Bla");
+		System.out.println("BlaBla");
 	}
 }
